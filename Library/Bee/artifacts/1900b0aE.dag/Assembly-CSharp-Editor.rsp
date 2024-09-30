@@ -417,6 +417,7 @@
 -analyzer:"C:/Program Files/Unity 2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Blink/Art/Characters/LowPoly/Editor/MaterialTilingOffset.cs"
 "Assets/Photon/PhotonChat/Demos/DemoChat/Editor/ChatEditor.cs"
+"Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs"
 -langversion:9.0
 
 /deterministic

@@ -398,9 +398,19 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/assets/Lowpoly_Demos/Environment_Free/Helpers/MouseLook.cs"
+"Assets/assets/Lowpoly_Demos/Environment_Free/Helpers/PlayerMovement.cs"
 "Assets/Low Poly Guns/Scripts/GunsMenu.cs"
 "Assets/Low Poly Guns/Scripts/GunView.cs"
 "Assets/Matthew Guz/Status Effects and Auras/Scripts/CameraRotation.cs"
+"Assets/Mini First Person Controller/Scripts/Components/Crouch.cs"
+"Assets/Mini First Person Controller/Scripts/Components/FirstPersonAudio.cs"
+"Assets/Mini First Person Controller/Scripts/Components/GroundCheck.cs"
+"Assets/Mini First Person Controller/Scripts/Components/Jump.cs"
+"Assets/Mini First Person Controller/Scripts/Components/Zoom.cs"
+"Assets/Mini First Person Controller/Scripts/FirstPersonLook.cs"
+"Assets/Mini First Person Controller/Scripts/FirstPersonMovement.cs"
+"Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Morepork/Input/PlayerControls.cs"
 "Assets/Morepork/Scripts/AI/AI_Movement.cs"
 "Assets/Morepork/Scripts/EquipWeapon.cs"
@@ -449,6 +459,7 @@
 "Assets/RoomList.cs"
 "Assets/RoomUIController.cs"
 "Assets/Travis Game Assets/Hit Impact Effects/Demo Scene/Scripts/HitImpactEffectsPreview.cs"
+"Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
 /deterministic
