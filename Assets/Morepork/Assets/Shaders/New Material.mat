@@ -33,7 +33,7 @@ Material:
     - _WaveScale: 0
     - _WaveSpeed: 0
     m_Colors:
-    - _BaseColor: {r: 0.043137256, g: 0.7008962, b: 0.8509804, a: 1}
+    - _BaseColor: {r: 0.26944414, g: 0.9245283, b: 0.20496617, a: 1}
     - _FoamOffset: {r: 3.98, g: 3.23, b: 0, a: 0}
     - _RippleOffset: {r: 3.59, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
