@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|d:\\year2_sem2\\new folder\\thirdperson_apc_github\\assets\\morepork\\scripts\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|d:\\year2_sem2\\new folder\\thirdperson_apc_github\\assets\\morepork\\scripts\\player\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\player\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|d:\\year2_sem2\\new folder\\thirdperson_apc_github\\assets\\morepork\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Library\\PackageCache\\com.unity.shadergraph@14.0.10\\Editor\\Data\\Graphs\\SerializableTexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.shadergraph@14.0.10\\Editor\\Data\\Graphs\\SerializableTexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|d:\\year2_sem2\\new folder\\thirdperson_apc_github\\assets\\morepork\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|d:\\year2_sem2\\new folder\\thirdperson_apc_github\\assets\\morepork\\scripts\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDDAE9-E574-DC03-64C4-A3C7C6D5F013}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerializableTexture.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Library\\PackageCache\\com.unity.shadergraph@14.0.10\\Editor\\Data\\Graphs\\SerializableTexture.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.shadergraph@14.0.10\\Editor\\Data\\Graphs\\SerializableTexture.cs",
+              "ToolTip": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Library\\PackageCache\\com.unity.shadergraph@14.0.10\\Editor\\Data\\Graphs\\SerializableTexture.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.shadergraph@14.0.10\\Editor\\Data\\Graphs\\SerializableTexture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:01:42.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\HealthManager.cs",
+              "ToolTip": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\HealthManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:04:28.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\RoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\RoomManager.cs",
+              "ToolTip": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\RoomManager.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\RoomManager.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwHEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:54:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\WeaponManager.cs",
+              "ToolTip": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\WeaponManager.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAcwKQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:50:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerSetup.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\Player\\PlayerSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\Player\\PlayerSetup.cs",
+              "ToolTip": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\Player\\PlayerSetup.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\Player\\PlayerSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:49:28.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leaderboard.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\Leaderboard.cs",
+              "ToolTip": "D:\\Year2_Sem2\\New folder\\Thirdperson_APC_Github\\Assets\\Morepork\\Scripts\\Leaderboard.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\Leaderboard.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:47:28.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

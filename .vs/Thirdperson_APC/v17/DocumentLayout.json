@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|d:\\year2_sem2\\thirdperson\\29-07\\thirdperson_apc\\assets\\morepork\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|d:\\year2_sem2\\thirdperson\\29-07\\thirdperson_apc\\assets\\morepork\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\assets\\morepork\\scripts\\player\\playerlocomotioninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\player\\playerlocomotioninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|d:\\year2_sem2\\thirdperson\\29-07\\thirdperson_apc\\assets\\morepork\\scripts\\player\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD66C6F2-1ED8-0732-9F26-3EA5D1F2F42B}|Assembly-CSharp.csproj|solutionrelative:assets\\morepork\\scripts\\player\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\Player\\PlayerAnimation.cs",
+              "ToolTip": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\Player\\PlayerAnimation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T23:40:53.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\Player\\PlayerState.cs",
+              "ToolTip": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\Player\\PlayerState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T23:40:51.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAkwLgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:33:37.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerLocomotionInput.cs",
+              "DocumentMoniker": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerLocomotionInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Morepork\\Scripts\\Player\\PlayerLocomotionInput.cs",
+              "ToolTip": "D:\\Year2_Sem2\\Thirdperson\\29-07\\Thirdperson_APC\\Assets\\Morepork\\Scripts\\Player\\PlayerLocomotionInput.cs",
+              "RelativeToolTip": "Assets\\Morepork\\Scripts\\Player\\PlayerLocomotionInput.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA4wAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:16:47.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
